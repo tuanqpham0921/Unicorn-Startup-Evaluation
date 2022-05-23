@@ -1,5 +1,3 @@
-# Unicorn Startup Evaluation
-
 # Unicorn Startup Evaluation 
 ##### By: Tuan Pham, Victoria Hall, Alexy Correa, Sahil Jain
 
